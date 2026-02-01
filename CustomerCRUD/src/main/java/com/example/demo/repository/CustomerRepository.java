@@ -10,4 +10,5 @@ import com.example.demo.model.Customer;
 public interface CustomerRepository  extends JpaRepository<Customer, Integer> {
 
 	Customer findByMob(String Mob);
+//	uotcyv
 }
