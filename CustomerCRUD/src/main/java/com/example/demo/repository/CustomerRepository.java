@@ -12,3 +12,4 @@ public interface CustomerRepository  extends JpaRepository<Customer, Integer> {
 	Customer findByMob(String Mob);
 //	uotcyv
 }
+//owdmwomdx
